@@ -1,6 +1,6 @@
 ###PullToRefreshAndLoadMore
 
- 对SCPullRefresh（https://github.com/singro/SCPullRefresh）
+ 对SCPullRefresh（ https://github.com/singro/SCPullRefresh ）
  
  的改进，支持UIScrollView,包括UICollectionView和UITableView
  
